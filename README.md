@@ -62,10 +62,10 @@ Detect delayed deliveries and logistics issues
 
 • What are the monthly sales trends?
 
-## 7. Conclusion
+## 6. Conclusion
 • Built an interactive dashboard to track customer retention, sales performance, and delivery efficiency. Uncovered key insights such as impact of delivery delays on ratings and high-performing regions
 
-## 8.Dashboard
+## 7.Dashboard
 <img width="1296" height="733" alt="customer_behavior snapshot 1" src="https://github.com/user-attachments/assets/608e5580-0aa9-4908-91e9-5deb613e3c47" />
 
 
